@@ -1,4 +1,4 @@
-# 朱飞阳 / Mofarigano
+#  Mofarigano
 
 ![朱飞阳 / Mofarigano personal portfolio cover](./cover.png)
 
